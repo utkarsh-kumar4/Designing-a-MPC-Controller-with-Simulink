@@ -1,4 +1,4 @@
-# Designing-a-MPC-Controller-with-Simulink 💻👨🏻‍💻
+# Designing a MPC Controller with Simulink 💻👨🏻‍💻
 
 • Designed and implemented an Model Predictive Control (MPC) controller block in Simulink, incorporating a cost
 function and tuning parameters to optimize performance.<br/>
