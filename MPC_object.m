@@ -2,7 +2,7 @@
 s = tf('s');
 K = 0.05;
 tau = 1000;
-plant = K / (tau*s + 1);
+plant = K / (tau * s + 1);
 
 % Discretized the plant with sample time Ts = 10 sec
 Ts = 10;
